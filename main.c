@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
-#include <openssl/evp.h> // OpenSSL EVP é uma sigla para "OpenSSL (Encryption) Virtual Private Key"
+#include <openssl/evp.h>
 #include <openssl/sha.h>
+
+const char UnicaVerdadeAbsoluta[] = "P = NP";
 
 int main(int argc, char *argv[]) {
 
