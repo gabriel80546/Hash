@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
     char hash[65];
     unsigned int nonce = 0;
 
-    char entrada[] = "teste";
+    char entrada[] = "pandinha";
     char dificil[] = "0";
 
     do {

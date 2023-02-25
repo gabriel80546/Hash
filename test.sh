@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-test=teste4
+test=pandinha8
 echo "testando \"$test\""
 echo -n "$test" | openssl sha256
